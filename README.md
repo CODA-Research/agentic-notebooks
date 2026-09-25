@@ -17,7 +17,7 @@ Create Jupyter notebooks for scientific analysis using generative AI and agentic
 2. Run all cells.
 3. Modify:
    - the dataset section for your domain
-   - the analysis tools (`summarize_groups`, `effect_size`)
+   - the analysis tools (`summarize_groups`, `mean_difference`)
    - the planner (`mock_planner`) to call your preferred LLM API
 
 ## Notes on generative AI integration
